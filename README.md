@@ -5,7 +5,18 @@ The following webiste provides you with a great overview of CSS<br>
 https://www.w3schools.com/css/
 
 <br>
-<h2>CSS</h2>
+<h2>Approach to work</h2>
+- Styling is propably the most important aspect of developing customer facing software. <br>
+- We judge what we see and the frontend is defenetly something we see right ahead. <br>
+
+<br>
+<h3>How to apporach css development</h3>
+
+1. Work with the overall design and static content. <br>
+2. Get everything alligned in good way and then make the data flow through the frontend after wards. <br>
+
+<br>
+<h2>CSS basics</h2>
 
 <h3>CSS position</h3>
 
